@@ -13,3 +13,4 @@ else:
         print('Zkus se víc usmívat!')
     else:
         print('To je mi líto.')
+ # Ostani veci pozdeji.
