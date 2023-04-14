@@ -13,5 +13,5 @@ for iface in interfaces:
         print(f"Síťové rozhraní {iface}:")
         for ip in ip_addresses:
             print(f"- IP adresa: {ip['addr']}")
-# Tímto máme hotovo.    
+   
     
